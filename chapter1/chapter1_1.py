@@ -1,2 +1,2 @@
 # 12.08 zry
-def howToLearn
+def howToLearn1
